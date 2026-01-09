@@ -8,7 +8,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import io
-import ddddocr
 
 def slider_verification(browser, wait,img_elem_xpath,whole_img_elem_xpath,drag_element_xpath,verify_container_xpath):
     """
