@@ -1,3 +1,4 @@
+# img_captcha.py
 import io
 from PIL import Image
 from selenium.webdriver.support.ui import WebDriverWait
