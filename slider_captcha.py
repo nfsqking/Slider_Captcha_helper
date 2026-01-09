@@ -1,3 +1,4 @@
+# slider_captcha.py
 import time
 import base64
 from io import BytesIO
