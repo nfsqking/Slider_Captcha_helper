@@ -1,7 +1,7 @@
 # 用于在selenium自动化中处理各类验证码
-* slider_captcha.py：滑块验证码
-* math_captcha.py：算术验证码
-* img_captcha.py：图片文本验证码
+#### slider_captcha.py：滑块验证码
+#### math_captcha.py：算术验证码
+#### img_captcha.py：图片文本验证码
 
 ## 1.使用slider_captcha.py时，需在slider_verification函数中传入以下变量：
 * browser: 已初始化的webdriver对象
