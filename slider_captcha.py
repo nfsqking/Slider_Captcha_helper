@@ -1,4 +1,3 @@
-# slider_verify.py - 独立的滑块验证模块
 import time
 import base64
 from io import BytesIO
